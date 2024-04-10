@@ -1,0 +1,6 @@
+/Users/mkuri/Documents/personal/scripts/message-queue-project/src/main/java/com/example/messagequeue/MessageQueueApplication.java
+/Users/mkuri/Documents/personal/scripts/message-queue-project/src/main/java/com/example/messagequeue/consumer/MessageConsumer.java
+/Users/mkuri/Documents/personal/scripts/message-queue-project/src/main/java/com/example/messagequeue/model/Message.java
+/Users/mkuri/Documents/personal/scripts/message-queue-project/src/main/java/com/example/messagequeue/controller/MessageQueueController.java
+/Users/mkuri/Documents/personal/scripts/message-queue-project/src/main/java/com/example/messagequeue/producer/MessageProducer.java
+/Users/mkuri/Documents/personal/scripts/message-queue-project/src/main/java/com/example/messagequeue/config/RabbitMQConfig.java

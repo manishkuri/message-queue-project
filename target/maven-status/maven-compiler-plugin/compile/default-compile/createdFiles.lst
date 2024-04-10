@@ -1,0 +1,6 @@
+com/example/messagequeue/producer/MessageProducer.class
+com/example/messagequeue/config/RabbitMQConfig.class
+com/example/messagequeue/model/Message.class
+com/example/messagequeue/controller/MessageQueueController.class
+com/example/messagequeue/consumer/MessageConsumer.class
+com/example/messagequeue/MessageQueueApplication.class
